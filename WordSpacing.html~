@@ -7,19 +7,6 @@
 <link rel="stylesheet" href="style.css">
 <style>
 
-#topLine {
-	font-size: 9em;
-}
-#secondLine {
-	font-size: 6em;	
-}
-#thirdLine {
-	font-size: 4em;
-}
-#fourthLine {
-	font-size: 3em;
-}
-
 </style>
 </head>
 <body>

@@ -7,25 +7,6 @@
 <link rel="stylesheet" href="style.css">
 <style>
 
-#exercise1 {
-	margin: 0em 1em;
-}
-
-#essay p {
-	margin: 0em;
-	text-indent: 2em;
-	line-height: 2em;
-}
-
-#worksCited p {
-	text-indent: -2em;
-	margin-left: 2em;
-}
-
-.note {
-	color: purple;
-}
-
 </style>
 </head>
 <body>
@@ -41,11 +22,10 @@ Add css rules to make the text below match the pictured academic essay format. T
 </ol>
 Once you have replicated the pictured design, try experimenting with some spans and other rules and see what sorts of other formats you can achieve.
 </div>
-
 <div id="exercise1" class="exercise">
 <section id="essay">
 <h2>Global Warming</h2>
-<p>Global warming is the observed century-scale rise in the average temperature of Earth's climate system.<span class="note">[2]</span> Since 1971, 90% of the increased energy has been stored in the oceans, mostly in the 0 to 700m region.<span class="note">[3]</span> Despite the oceans' dominant role in energy storage, the term "global warming" is also used to refer to increases in average temperature of the air and sea at Earth's surface.[4] Since the early 20th century, the global air and sea surface temperature has increased about 0.8 °C (1.4 °F), with about two-thirds of the increase occurring since 1980.[5] Each of the last three decades has been successively warmer at the Earth's surface than any preceding decade since 1850.[6]</p>
+<p>Global warming is the observed century-scale rise in the average temperature of Earth's climate system.<span class="note">[2]</span> Since 1971, 90% of the increased energy has been stored in the oceans, mostly in the 0 to 700m region.[3] Despite the oceans' dominant role in energy storage, the term "global warming" is also used to refer to increases in average temperature of the air and sea at Earth's surface.[4] Since the early 20th century, the global air and sea surface temperature has increased about 0.8 °C (1.4 °F), with about two-thirds of the increase occurring since 1980.[5] Each of the last three decades has been successively warmer at the Earth's surface than any preceding decade since 1850.[6]</p>
 
 <p>Scientific understanding of the cause of global warming has been increasing. In its fourth assessment (AR4 2007) of the relevant scientific literature, the Intergovernmental Panel on Climate Change (IPCC) reported that scientists were more than 90% certain that most of global warming was being caused by increasing concentrations of greenhouse gases produced by human activities.[7][8][9] In 2010 that finding was recognized by the national science academies of all major industrialized nations.[10][a]</p>
 
@@ -55,7 +35,6 @@ Once you have replicated the pictured design, try experimenting with some spans 
 
 <p>Climate model projections were summarized in the 2013 Fifth Assessment Report (AR5) by the Intergovernmental Panel on Climate Change (IPCC). They indicated that during the 21st century the global surface temperature is likely to rise a further 0.3 to 1.7 °C (0.5 to 3.1 °F) for their lowest emissions scenario using stringent mitigation and 2.6 to 4.8 °C (4.7 to 8.6 °F) for their highest.[14] The ranges of these estimates arise from the use of models with differing sensitivity to greenhouse gas concentrations.[15][16]</p>
 </section>
-
 <section id="worksCited">
 <h2>Works Cited</h2>
 
