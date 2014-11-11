@@ -7,21 +7,7 @@
 <link rel="stylesheet" href="style.css">
 <style>
 #tabContainer {
-	width: 35%;
 
-}
-
-#tabContainer a {
-	display: inline-block;
-	width: 22%;
-	background-color: darkblue;
-	color: yellow;
-	text-decoration: none;
-	border-top-left-radius: 3em 1.5em;
-	border-top-right-radius: 3em 1.5em;
-	padding-left: .3em;
-	padding-top: 1em;
-	margin-left: .25em;
 }
 
 #tabContainer a:hover {
@@ -30,7 +16,6 @@
 </style>
 </head>
 <body>
-
 <h1>Tabs</h1>
 <div id="intro" class="instructions">
 I've included below all the HTML you would need to create a set of links displayed as "tabs." To create the tab appearance as shown in the screenshot below, follow these steps:
@@ -46,7 +31,6 @@ I've included below all the HTML you would need to create a set of links display
 <p>Once the tabs are set up, try adding some different background-color rules to the #tabContainer a:hover section to change the color of the tab the user is hovering over. This will provide a nice effect to tell the user the tabs are a navigation element. Find a color that looks like it matches the existing elements.</p>
 <p>Once you have replicated the pictured effect, try some other settings and see what other looks you can achieve for your tabs.</p>
 </div>
-
 <div id="exercise1" class="exercise">
 	<div id="tabContainer">
 		<a href="About.html">About</a><a href="Blog.html">Blog</a><a href="Store.html">Store</a><a href="Archives.html">Archives</a>
